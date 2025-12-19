@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clinical Workflow Automation Agent
 
 A function-calling LLM agent designed for clinical workflow automation, specifically for appointment scheduling and care coordination. The agent safely interprets natural language requests and executes validated actions through structured function calls.
@@ -210,3 +211,7 @@ Created as part of a clinical workflow automation assignment demonstrating funct
 ---
 
 **Note**: This agent is designed for workflow orchestration only. It does not provide medical advice, diagnosis, or treatment recommendations. Always consult with healthcare professionals for medical decisions.
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HkHTIwfX)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22078855&assignment_repo_type=AssignmentRepo)
+>>>>>>> 56041c1bd2a4bbf42bb562a585c19c9eaf315e5e
